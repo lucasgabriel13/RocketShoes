@@ -1,4 +1,4 @@
-# Rocketshoes
+# ![logo](https://user-images.githubusercontent.com/44211093/162860260-2282dbcc-4563-47c1-bc54-ab6636962116.svg)
 ![rocketshoes](https://user-images.githubusercontent.com/44211093/162858672-651687fe-429b-490f-a48f-fb7ae4572f52.png)
 
 ## 💻 O projeto
