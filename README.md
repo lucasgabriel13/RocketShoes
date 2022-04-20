@@ -14,6 +14,8 @@ Foram definidas e desenvolvidas as atividades listadas abaixo:
 - Exibição de mensagens de erro;
 - Entre outros.
 
+[🖱️ Clique aqui para ver o projeto!](https://rocketshoes-kappa.vercel.app/)
+
 ## ✨ Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
@@ -53,4 +55,4 @@ yarn start
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 📕 Licença
-Este projeto está sob a licença [MIT](https://github.com/tavareshenrique/ignite-reactjs-desafio-3/blob/master/LICENSE).
+Este projeto está sob a licença [MIT](https://github.com/lucasgabriel13/desafio-03-ignite-reactjs/blob/master/LICENCE).
